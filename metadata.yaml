@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5375
     wikipedia: http://en.wikipedia.org/wiki/Fryniwyd_Tennyson_Jesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14119#The-White-Riband--Or-A-Young-Female-s-Folly
 gutenberg_issued: '2004-11-22'
 gutenberg_type: Text
 identifiers:
