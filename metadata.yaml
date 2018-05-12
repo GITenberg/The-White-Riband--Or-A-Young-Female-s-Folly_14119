@@ -1,0 +1,35 @@
+_repo: The-White-Riband--Or-A-Young-Female-s-Folly_14119
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14119-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Jesse, F. Tennyson (Fryniwyd Tennyson)
+    aliases:
+    - Tinker, Beamish
+    - Jesse, Wynifried Margaret
+    - Harwood, Mrs. Harold
+    - Jesse, Fryniwyd Tennyson
+    birthdate: 1888
+    deathdate: 1958
+    gutenberg_agent_id: '5375'
+    url: http://www.gutenberg.org/2009/agents/5375
+    wikipedia: http://en.wikipedia.org/wiki/Fryniwyd_Tennyson_Jesse
+description: ''
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14119'
+  lccn: '22006515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Girls -- Fiction'
+title: The White Riband; Or, A Young Female's Folly
+url: http://www.gutenberg.org/ebooks/14119
